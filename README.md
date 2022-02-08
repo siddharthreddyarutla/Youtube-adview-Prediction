@@ -21,10 +21,10 @@ in the algorithms for better results.
 
 > 'vidid' : Unique Identification ID for each video
 > <br>
-'adview' : The number of adviews for each video
-<br>
-'views' : The number of unique views for each video
-<br>
+>'adview' : The number of adviews for each video
+> <br>
+> 'views' : The number of unique views for each video
+> <br>
 'likes' : The number of likes for each video
 <br>
 'dislikes' : The number of likes for each video
