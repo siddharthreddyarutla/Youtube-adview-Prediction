@@ -2,6 +2,23 @@
 <h1>Objective</h1>
 To build a machine learning regression to predict youtube adview count based
 on other youtube metrics.
+<h1>Steps and Task</h1>
+1. Import the datasets and libraries, check shape and datatype.
+2. Visualise the dataset using plotting using heatmaps and plots. You
+can study data distributions for each attribute as well.
+3. Clean the dataset by removing missing values and other things.
+4. Transform attributes into numerical values and other
+necessary transformations
+5. Normalise your data and split the data into training, validation and test
+set in the appropriate ratio.
+6. Use linear regression, Support Vector Regressor for training and get
+errors.
+7. Use Decision Tree Regressor and Random Forest Regressors.
+8. Build an artificial neural network and train it with different layers
+and hyperparameters. Experiment a little. Use keras.
+9. Pick the best model based on error as well as
+generalisation.
+10.Save your model and predict on the test set.
 <h1>Data Description </h1>
 The file train.csv contains metrics and other details of about 15000 youtube
 videos. The metrics include number of views, likes, dislikes, comments and
