@@ -20,4 +20,5 @@ number of adviews. The data needs to be refined and cleaned before feeding
 in the algorithms for better results.
 
 > 'vidid' : Unique Identification ID for each video
+
   'adview' : The number of adviews for each video
