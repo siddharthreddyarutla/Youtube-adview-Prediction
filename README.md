@@ -22,10 +22,18 @@ in the algorithms for better results.
 > 'vidid' : Unique Identification ID for each video
 > <br>
 'adview' : The number of adviews for each video
+<br>
 'views' : The number of unique views for each video
+<br>
 'likes' : The number of likes for each video
+<br>
 'dislikes' : The number of likes for each video
+<br>
 'comment' : The number of unique comments for each video
+<br>
 'published' : The data of uploading the video
+<br>
 'duration' : The duration of the video (in min. and seconds)
+<br>
 'category' : Category niche of each of the video
+<br>
