@@ -1,4 +1,7 @@
 # Youtube-adview-Prediction
+<h1>Objective</h1>
+To build a machine learning regression to predict youtube adview count based
+on other youtube metrics.
 <h1>Data Description </h1>
 The file train.csv contains metrics and other details of about 15000 youtube
 videos. The metrics include number of views, likes, dislikes, comments and
