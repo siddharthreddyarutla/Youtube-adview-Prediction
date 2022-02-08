@@ -3,7 +3,7 @@
 To build a machine learning regression to predict youtube adview count based
 on other youtube metrics.
 <h1>Steps and Task</h1>
-1. Import the datasets and libraries, check shape and datatype.
+1. Import the datasets and libraries, check shape and datatype.<br>
 2. Visualise the dataset using plotting using heatmaps and plots. You
 can study data distributions for each attribute as well.
 3. Clean the dataset by removing missing values and other things.
