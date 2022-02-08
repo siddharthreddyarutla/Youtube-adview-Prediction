@@ -5,20 +5,20 @@ on other youtube metrics.
 <h1>Steps and Task</h1>
 1. Import the datasets and libraries, check shape and datatype.<br>
 2. Visualise the dataset using plotting using heatmaps and plots. You
-can study data distributions for each attribute as well.
-3. Clean the dataset by removing missing values and other things.
+can study data distributions for each attribute as well.<br>
+3. Clean the dataset by removing missing values and other things.<br>
 4. Transform attributes into numerical values and other
-necessary transformations
+necessary transformations<br>
 5. Normalise your data and split the data into training, validation and test
-set in the appropriate ratio.
+set in the appropriate ratio.<br>
 6. Use linear regression, Support Vector Regressor for training and get
-errors.
-7. Use Decision Tree Regressor and Random Forest Regressors.
+errors.<br>
+7. Use Decision Tree Regressor and Random Forest Regressors.<br>
 8. Build an artificial neural network and train it with different layers
-and hyperparameters. Experiment a little. Use keras.
+and hyperparameters. Experiment a little. Use keras.<br>
 9. Pick the best model based on error as well as
-generalisation.
-10.Save your model and predict on the test set.
+generalisation.<br>
+10.Save your model and predict on the test set.<br>
 <h1>Data Description </h1>
 The file train.csv contains metrics and other details of about 15000 youtube
 videos. The metrics include number of views, likes, dislikes, comments and
