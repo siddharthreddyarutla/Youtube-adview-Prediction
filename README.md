@@ -57,3 +57,8 @@ in the algorithms for better results.
 > <br>
 > 'category' : Category niche of each of the video
 > <br>
+
+Heat map:
+
+![image](https://user-images.githubusercontent.com/70971734/153599250-bec54f9c-f0ab-4435-9beb-6f7e79b56b08.png)
+
